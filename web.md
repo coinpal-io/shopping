@@ -1,6 +1,5 @@
 # How to import products from self built website to CoinPal?
 
-**Step 1: Search "Mulwi Feeds" app and install.**
 
 
 **Provide us with a URL that can be accessed using the get method and return a fixed format JSON string.</h3>
